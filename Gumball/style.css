@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+body {
+    background-color: #000;
+}
+
+.header {
+    margin: 2em 0 0 33.5em;
+}
+
+.div {
+    height: 25em;
+    width: 25em;
+    background-color: #70c7e3;
+    margin: auto;
+    margin-top: 7em;
+}
+
